@@ -1,0 +1,32 @@
+rm -rf "nombrede la carpeta
+
+elimina la carpetaaaaa
+
+usamos brew para la instalacion de adonis, por que es una weada
+te causo muhco porblemas y hoy lo slucionaste
+
+
+entra  ala domcumentaciond eadnis y sigue los pasos:
+
+npm i -g @adonisjs/cli
+adonis new yardstick
+cd yardstick
+adonis serve --dev
+
+
+
+-> adonis new --help            -> aqui se obbitne las opcioenes para isntalar solo que deseamos
+-> adonis new adonis-api --api-only   //aqui seleccionamos solo que queremos las api, para que no pese demasiado
+
+esos son los comandos que usams, por si acaso
+
+
+.addHook -> Es realizar una accion en determinado momento 
+            antes de guardarlo en base de datso
+
+            hooks es el controlador de base d adatos
+
+            
+
+
+
